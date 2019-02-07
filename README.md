@@ -1,5 +1,7 @@
 # CS37680-Software_Security
 C, C++, OpenSSL SHA256
+
+
 TASK 1:
 	In the first task1, we used a pseudo-menu system to take input from user. The program asks for a selection of password file:
 	(1: Plaintext), (2: Hashed) or (3. Salt Hash)
